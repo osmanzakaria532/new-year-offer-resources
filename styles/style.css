@@ -159,3 +159,47 @@ header {
 .midnight-button {
   margin-left: 20px;
 }
+
+.new-park-hotel {
+  padding-top: 120px;
+}
+
+.new-park-hotel-container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 100px 0 200px 0;
+  text-align: center;
+  background-image: linear-gradient(to bottom, #fddcdc, #ffffff);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.new-park-title,
+.new-park-description {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 56px;
+}
+
+.new-park-hotel-container span {
+  color: red;
+}
+
+.button {
+  margin-top: 48px;
+}
+
+.button a {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  padding: 16px 30px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
