@@ -203,3 +203,85 @@ header {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+
+/* coming soon */
+.coming-soon {
+  padding-top: 120px;
+}
+
+.coming-soon-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.coming-soon-left {
+  max-width: 400px;
+}
+
+.coming-soon-left p:first-child {
+  color: red;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.coming-soon-left h2 {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 16px 0 22px 0;
+}
+
+.coming-soon-left p:last-child {
+  font-size: 20px;
+  line-height: 32px;
+  color: #070211;
+  opacity: 0.8;
+}
+
+
+.coming-soon-middle {
+  border: 8px solid red;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box; /* Important */
+  padding: 20px; /* Optional: reduce this if needed */
+  overflow: hidden; /* This helps ensure image doesn't overflow */
+}
+
+.coming-soon-middle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Fill the space nicely */
+  border-radius: 50%;
+}
+
+.coming-soon-right {
+  width: 250px;
+}
+
+.coming-soon-right h2 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #FF0000;
+}
+
+.coming-soon-right p {
+  font-size: 20px;
+  line-height: 32px;
+  color: #070211;
+  opacity: 0.6;
+}
+
+.coming-soon-right img {
+  width: 140px;
+}
+
+.coming-soon-right p {
+  padding-top: 16px;
+  padding-bottom: 32px;
+}
