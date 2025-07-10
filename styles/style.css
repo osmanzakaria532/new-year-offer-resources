@@ -345,3 +345,32 @@ header {
   -ms-border-radius: 16px;
   -o-border-radius: 16px;
 }
+
+/* our-awesome-portfolio */
+
+.our-awesome-portfolio {
+  padding-top: 120px;
+}
+
+.portfolio-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  color: #FF0000;
+}
+
+.portfolio-title {
+  font-size: 48px;
+  font-weight: 900;
+  color: #070211;
+  margin: 16px 0 22px 0;
+}
+
+.portfolio-description {
+  font-size: 20px;
+  line-height: 32px;
+  color: #070211;
+  opacity: 0.6;
+  font-weight: 500;
+  width: 895px;
+  margin-bottom: 48px;
+}
