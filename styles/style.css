@@ -285,3 +285,63 @@ header {
   padding-top: 16px;
   padding-bottom: 32px;
 }
+
+/* holidays-sale-50% */
+.holidays-sale-50 {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.holidays-subtitle {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.holidays-title {
+  font-size: 72px;
+  font-weight: 900;
+  color: #070211;
+  margin: 16px 0 28px 0;
+}
+
+.holidays-title span {
+  color: #FF0000;
+}
+
+.holidays-description {
+  font-size: 20px;
+  line-height: 32px;
+  color: #070211;
+  opacity: 0.8;
+  font-weight: 500;
+  width: 1068px;
+  margin: 0 auto 64px;
+
+}
+
+.holidays-images {
+  position: relative;
+  display: flex;
+}
+
+.position-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  bottom: -430px;
+  z-index: -1;
+}
+
+.holidays-images .img-right img {
+  margin-left: 190px;
+  margin-top: 60px;
+}
+
+.position-img img {
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
