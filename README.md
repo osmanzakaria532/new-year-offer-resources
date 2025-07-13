@@ -58,8 +58,22 @@ The site is designed as a single-page event landing layout. It includes the foll
 
 ## 📁 Folder Structure
 
-<pre lang="markdown">
-    ``` project-folder/ ├── index.html ├── styles/ │ └── style.css ├── images/ │ ├── banner.jpg │ └── logo.png ├── icons/ │ ├── Facebook.png │ ├── Twitter.png │ └── Instagram.png └── README.md ```
+<pre lang="folder-structure">
+    ```
+        project-folder/
+        ├── index.html
+        ├── styles/
+        │   └── style.css
+        ├── images/
+        │   ├── banner.jpg
+        │   ├── Group 75.png
+        │   └── Rectangle 2.png
+        ├── icons/
+        │   ├── Facebook.png
+        │   ├── Twitter.png
+        │   └── Instagram.png
+        └── README.md
+    ```
 </pre>
 
 ---
