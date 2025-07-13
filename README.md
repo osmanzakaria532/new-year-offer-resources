@@ -92,6 +92,8 @@ The site is designed as a single-page event landing layout. It includes the foll
 
 _Add a screenshot here to show what the final site looks like._
 
+<img src="./full-page-image/new-year-offer-resources-full-page.png" alt="full page image">
+
 ---
 
 ## 👨‍💻 Author
